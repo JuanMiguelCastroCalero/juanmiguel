@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freeman&display=swap');
+
+body{
+    background-color: rgb(126, 187, 238);
+}
+table#t1{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 50%;
+    font-style: normal;
+    text-align: justify;
+    border-color: rgb(72, 100, 158);
+}
+table#t2{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 50%;
+    font-style: normal;
+    text-align: justify;
+    border-color:rgb(102, 158, 111);
+}
+table#t3{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 50%;
+    font-style: normal;
+    text-align: justify;
+    border-color: rgb(111, 83, 136);
+}
+
+h1#titulo1{
+    font-family: "Freeman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+h1#titulo2{
+    font-family: "Freeman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+h1#titulo3{
+    font-family: "Freeman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
